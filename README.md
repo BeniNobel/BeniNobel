@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 👋
 
 <!--
 **BeniNobel/BeniNobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Beni, and I'm a Computer Science Student at The University of Ottawa.
+
+At the current moment, I'm learning more about React and Next.js. I like figuring things out by building: SumIt started with what I learned in Postman's API Fundamentals program and grew into a text summarizer with its own API and tests.
+
+When I'm not doing homework, you'll probably find me exploring a new idea and seeing if I can turn it into something useful.
+
+Overall, I'm interested in web applications, APIs, and practical uses of AI.
+
+> “If language is not correct, then what is said is not what is meant; if what is said is not what is meant, then what ought to be done remains undone.” — Confucius
